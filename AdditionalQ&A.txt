@@ -1,0 +1,59 @@
+MULTIPLE CHOICE
+
+11. used in animation, transition and related properties
+	
+	a. length units		c. frequency units
+	b. duration units	d. resolution units
+
+12. provides features that developers expect browsers to provide natively
+
+	a. CSS Frameworks	b. Value types
+	b. CSS Declaration	d. Polyfills
+
+13. base part of the JavaScript language that is supported on both the client and server side
+
+	a. Client-side JavaScript	c. Core JavaScript
+	b. Internal JavaScript		d. External JavaScript
+
+14. client does not request and does not expect
+
+	a. Safe Methods		c. Idempotent Methods
+	b. Cacheable Methods	d. Standard Methods
+
+15. typically used for testing/diagnostic of the request chain
+
+	a. connect	c. get
+	b. post		d. trace
+
+FILL IN THE BLANKS
+
+11. var _____Counter = 10;
+12. HTTP uses a request-response standard _______.
+13. path to ______.
+14. linked a.k.a _______ scripts.
+15. for (let index = 1; index < arguments._____; index++) {}
+
+CHOICES
+
+	length		external
+	loop		resource
+	protocol
+
+
+
+
+
+ANSWERS
+MULTIPLE CHOICE
+11. B
+12. D
+13. C
+14. A
+15. D
+
+FILL IN THE BLANKS
+11. loop
+12. protocol
+13. resource
+14. external 
+15. length
